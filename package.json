@@ -1,0 +1,17 @@
+{
+  "name": "hsbpassword-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Hsbpassword",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "grammy": "^1.30.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
